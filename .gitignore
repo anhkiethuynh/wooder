@@ -1,0 +1,10 @@
+node_modules/
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+package-lock.json
+package.json
+gruntfile.js
+debug.log
+WooderPSD-CFD.psd
