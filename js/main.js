@@ -154,7 +154,8 @@ imgList = [
 	{
 		id: 1,
 		content: "wooder",
-		src: "img/slider.jpg",
+		src:
+			"https://images.unsplash.com/photo-1467987506553-8f3916508521?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1350&q=80",
 	},
 	{
 		id: 2,
